@@ -1,6 +1,6 @@
 cask "allnighter" do
-  version "0.1.6"
-  sha256 "512278e8c7f4d04a8f64f2bf7d0f305ecf198f35ec82da84aa47b910cd114a3e"
+  version "0.1.7"
+  sha256 "e1959803027d3def7372e8e37581cec323b323054f406b72a6e8400eb48cf1d3"
 
   url "https://github.com/retrokidworks/allnighter/releases/download/v#{version}/Allnighter-#{version}.dmg"
   name "Allnighter"
